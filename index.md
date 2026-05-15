@@ -1,6 +1,6 @@
 ---
 title:  "陳捷	Jesse Chieh Chen"
-author: "[`jessechiehchen.com`](http://jessechiehchen.com)"
+author: "[`jessechiehchen.com`](https://jessechiehchen.com)"
 ---
 
 <img class="front_pic"
