@@ -18,7 +18,7 @@ You can find my CV [**here**](cv/jesse-chieh-chen-cv.pdf).
 
 # Research
 
-- *Fixed-T Dynamic Spatial Panel Model with Common Shocks*, with Jushan Bai (Working Paper)
+- *Fixed-T Dynamic Spatial Panel Model with Common Shocks*, with Jushan Bai (Working in Progress)
 - *A Bayesian Approach to the Problem of Unknown Networks*, with Jushan Bai (Working in Progress)
 
 # Teaching
